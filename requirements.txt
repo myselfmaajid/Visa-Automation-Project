@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+selenium
+seleniumbase
+openai
+openai-whisper
+librosa
+static-ffmpeg
+requests
+flask
+pyarmor
+pyautogui
